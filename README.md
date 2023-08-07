@@ -9,7 +9,7 @@ Cartogram and related algorithms for GeoPandas based geometries
 ### Using Pip
 
 ```sh
-pip install git+ssh://git@github.com/danlewis85/cartogrampy.git@master
+pip install git+ssh://git@github.com/blomadam/cartogrampy.git@master
 ```
 
 ### Note:
